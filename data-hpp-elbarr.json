@@ -1,0 +1,134 @@
+{
+ "kainNama": "Kaen Tojiro",
+ "kainHargaPerMeter": 18864,
+ "models": [
+  {
+   "jenis": "Kurta",
+   "nomor": "16",
+   "kainMeter": 2.45,
+   "kainHargaExcel": 18864.0,
+   "namaModel": "",
+   "catatan": "Impor dari PERKIRAAN_HPP_ELBARR_27092026.xlsx"
+  },
+  {
+   "jenis": "Gamis",
+   "nomor": "16",
+   "kainMeter": 2.05,
+   "kainHargaExcel": 18864.0,
+   "namaModel": "",
+   "catatan": "Impor dari PERKIRAAN_HPP_ELBARR_27092026.xlsx"
+  },
+  {
+   "jenis": "Kurta",
+   "nomor": "14",
+   "kainMeter": 2.4,
+   "kainHargaExcel": 18864.0,
+   "namaModel": "",
+   "catatan": "Impor dari PERKIRAAN_HPP_ELBARR_27092026.xlsx"
+  },
+  {
+   "jenis": "Gamis",
+   "nomor": "14",
+   "kainMeter": 2.0,
+   "kainHargaExcel": 18864.0,
+   "namaModel": "",
+   "catatan": "Impor dari PERKIRAAN_HPP_ELBARR_27092026.xlsx"
+  },
+  {
+   "jenis": "Kurta",
+   "nomor": "12",
+   "kainMeter": 1.8,
+   "kainHargaExcel": 18864.0,
+   "namaModel": "",
+   "catatan": "Impor dari PERKIRAAN_HPP_ELBARR_27092026.xlsx"
+  },
+  {
+   "jenis": "Gamis",
+   "nomor": "12",
+   "kainMeter": 1.83,
+   "kainHargaExcel": 18864.0,
+   "namaModel": "",
+   "catatan": "Impor dari PERKIRAAN_HPP_ELBARR_27092026.xlsx"
+  },
+  {
+   "jenis": "Kurta",
+   "nomor": "10",
+   "kainMeter": 1.55,
+   "kainHargaExcel": 18864.0,
+   "namaModel": "",
+   "catatan": "Impor dari PERKIRAAN_HPP_ELBARR_27092026.xlsx"
+  },
+  {
+   "jenis": "Gamis",
+   "nomor": "10",
+   "kainMeter": 1.69,
+   "kainHargaExcel": 18864.0,
+   "namaModel": "",
+   "catatan": "Impor dari PERKIRAAN_HPP_ELBARR_27092026.xlsx"
+  },
+  {
+   "jenis": "Kurta",
+   "nomor": "8",
+   "kainMeter": 1.45,
+   "kainHargaExcel": 18864.0,
+   "namaModel": "",
+   "catatan": "Impor dari PERKIRAAN_HPP_ELBARR_27092026.xlsx"
+  },
+  {
+   "jenis": "Gamis",
+   "nomor": "8",
+   "kainMeter": 1.63,
+   "kainHargaExcel": 18864.0,
+   "namaModel": "",
+   "catatan": "Impor dari PERKIRAAN_HPP_ELBARR_27092026.xlsx"
+  },
+  {
+   "jenis": "Kurta",
+   "nomor": "6",
+   "kainMeter": 1.35,
+   "kainHargaExcel": 18864.0,
+   "namaModel": "",
+   "catatan": "Impor dari PERKIRAAN_HPP_ELBARR_27092026.xlsx"
+  },
+  {
+   "jenis": "Gamis",
+   "nomor": "6",
+   "kainMeter": 1.0,
+   "kainHargaExcel": 18864.0,
+   "namaModel": "",
+   "catatan": "Impor dari PERKIRAAN_HPP_ELBARR_27092026.xlsx"
+  },
+  {
+   "jenis": "Kurta",
+   "nomor": "4",
+   "kainMeter": 1.24,
+   "kainHargaExcel": 18864.0,
+   "namaModel": "",
+   "catatan": "Impor dari PERKIRAAN_HPP_ELBARR_27092026.xlsx"
+  },
+  {
+   "jenis": "Gamis",
+   "nomor": "4",
+   "kainMeter": 0.91,
+   "kainHargaExcel": 18864.0,
+   "namaModel": "",
+   "catatan": "Impor dari PERKIRAAN_HPP_ELBARR_27092026.xlsx"
+  },
+  {
+   "jenis": "Kurta",
+   "nomor": "2",
+   "kainMeter": 1.12,
+   "kainHargaExcel": 18864.0,
+   "namaModel": "",
+   "catatan": "Impor dari PERKIRAAN_HPP_ELBARR_27092026.xlsx"
+  },
+  {
+   "jenis": "Gamis",
+   "nomor": "2",
+   "kainMeter": 0.6,
+   "kainHargaExcel": 18864.0,
+   "namaModel": "",
+   "catatan": "Impor dari PERKIRAAN_HPP_ELBARR_27092026.xlsx"
+  }
+ ]
+}

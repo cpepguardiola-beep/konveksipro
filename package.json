@@ -1,0 +1,20 @@
+{
+  "name": "konveksipro-api",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Backend KonveksiPro: login aman, RBAC server-side, soft delete, audit log",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js",
+    "demo": "node seed-demo.js",
+    "import-hpp": "node import-hpp.js"
+  },
+  "engines": {
+    "node": ">=22.13"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^5.1.0"
+  }
+}
